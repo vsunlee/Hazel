@@ -8,7 +8,7 @@ int main(int argc, char** argv)
 {
 	Hazel::Log::Init();
 	HZ_CORE_WARN("Intialized Log");
-	int a = 465845623;
+	int a = 1356;
 	HZ_INFO("Hello! Val={0}", a);
 
 	// Create application
