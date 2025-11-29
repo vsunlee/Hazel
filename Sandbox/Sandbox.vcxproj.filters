@@ -6,26 +6,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Hazel\src\Hazel.h" />
-    <ClInclude Include="..\Hazel\src\Hazel\Application.h">
-      <Filter>Hazel</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Hazel\src\Hazel\Core.h">
-      <Filter>Hazel</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Hazel\src\Hazel\EntryPoint.h">
-      <Filter>Hazel</Filter>
-    </ClInclude>
-    <ClInclude Include="..\Hazel\src\Hazel\Log.h">
-      <Filter>Hazel</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\Hazel\src\Hazel\Application.cpp">
-      <Filter>Hazel</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Hazel\src\Hazel\Log.cpp">
-      <Filter>Hazel</Filter>
-    </ClCompile>
+    <ClCompile Include="src\SandboxApp.cpp" />
   </ItemGroup>
 </Project>
